@@ -4,13 +4,6 @@
   <a href="https://gaavama.github.io/CDP/"><strong>Project Page</strong></a>
   |
   <a href="https://arxiv.org/abs/2506.14769"><strong>arXiv</strong></a>
-  
-  Jiahua Ma*, 
-  <a href="https://www.gu-zhang.com/">Yiran Qin*</a>, 
-  Yixiong Li, 
-  Xuanqi Liao, 
-  Yulan Guo, 
-  <a href="http://zhangruimao.site/">Ruimao Zhang</a>
 </div>
 
 <div align="center">
